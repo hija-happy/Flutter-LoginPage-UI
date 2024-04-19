@@ -21,6 +21,11 @@ Screenshots:
 * Visual Studio Code: Developed and tested within VS Code, providing a streamlined development experience for Flutter projects.
 
 <h3><b>Screenshots</b></h3>
-![Screenshot1](https://github.com/hija-happy/Flutter-LoginPage-UI/assets/116438494/03121661-7cb9-48eb-bec3-5571b2b3af7b)
-![Screenshot2](https://github.com/hija-happy/Flutter-LoginPage-UI/assets/116438494/ac029534-4d3e-4dac-b3c0-df2816faf89f)
+
+![Screenshot 2024-04-19 230446](https://github.com/hija-happy/Flutter-LoginPage-UI/assets/116438494/69610d2d-552a-4b34-ad31-2b286bcc9af3)
+
+![Screenshot 2024-04-19 225818](https://github.com/hija-happy/Flutter-LoginPage-UI/assets/116438494/07834c7e-4704-40b6-abff-14c66ca9baac)
+
+
+
 
